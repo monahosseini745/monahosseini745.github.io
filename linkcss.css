@@ -1,0 +1,44 @@
+nav a{
+    display: block;
+    font-weight: bold;
+    color: rgb(6, 255, 39);
+    background-color: rgb(1, 104, 104);
+    text-decoration: none;
+    margin: 0 auto;
+    margin-top:10px;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+}
+nav > a {
+    display: block;
+    font-weight: bold;
+    color: rgb(90, 116, 95);
+    background-color: rgb(231, 127, 7);
+    text-decoration: none;
+    /* margin: 0 auto;
+    margin-top:10px;
+    padding: 20px;
+    width: 300px;
+    text-align: center; */
+}
+h1{
+    text-align: center;
+}
+a:hover{
+    background-color: aquamarine;
+}
+/* #elmi{
+    display: block;
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+    background-color: rgb(166, 255, 0);
+    text-decoration: none;
+} */
+#mainlogo{
+    border: 5px solid #00ff00;
+    margin:center;
+}
+.thumb{
+    border: 1px solid rgb(6, 255, 39);
+}
